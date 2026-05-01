@@ -81,3 +81,88 @@
     text-align: end;
     padding: 53px
 }
+
+.design{
+    margin-top: 95px;
+    font-size: xxx-large;
+}
+.show{
+    color: red;
+    font-size: xxx-large;
+}
+.clr{
+    background-color: red;
+    max-width: 257px;
+    height: 646px;
+    position: fixed;
+}
+.name{
+    margin-top: 100px;
+    color: white;
+}
+.home{
+    margin-top: 78px;
+    color: white;
+    font-size: 22px;
+}
+.clr2{
+    color: white;
+    font-size: 22px;
+
+}
+.h{
+    width: 50px;
+    border: 5px solid red;
+    margin-left: 10px;
+    border-radius: 6px;
+}
+.left{
+    margin-left: 293px;
+}
+.im{
+    width: 476px;
+    margin-top: 10px;
+}
+.ser{
+    margin-top: 47px;
+    color: red;
+    font-size: xxx-large;
+}
+.img{
+    width: 307px;
+    filter: grayscale(1);
+}
+.t1{
+    background-color: darkgray;
+    height: 69px;
+    padding: 11px;
+    font-size: xx-large;
+    margin-left: -39px;
+}
+.pa{
+    padding: 10px;
+}
+.up:hover{
+    margin-top: 11px;
+    padding: 3px;
+    background-color: yellow;
+}
+
+.up{
+    margin-top: 11px;
+    padding: 3px;
+    background-color: red;
+}
+.box{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+}
+.last{
+    margin-top: 64px;
+    background-color: lightgray;
+    height: 153px;
+    text-align: end;
+    padding: 53px
+}
+
